@@ -1,0 +1,613 @@
+# depslib dependency file v1.0
+1450865213 source:c:\users\dimab\c++\projects codeblocks\tetris\main.cpp
+	<GL/glew.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	"gamePlay.h"
+	"table.h"
+	"shape.h"
+
+1341006780 
+
+1426342528 c:\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426342528 std.h"
+
+1426342528 c:\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1301111162 c:\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111163 c:\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111156 h>
+
+1301111164 c:\mingw\include\winuser.h
+
+1301111163 c:\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 >
+
+1301111162 c:\mingw\include\winerror.h
+
+1419773313 c:\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1419773313 c:\mingw\include\_mingw.h
+
+1301111149 c:\mingw\include\basetsd.h
+
+1301111157 c:\mingw\include\pshpack4.h
+
+1301111157 c:\mingw\include\poppack.h
+
+1301111164 c:\mingw\include\winver.h
+
+1301111149 c:\mingw\include\dde.h
+
+1301111150 c:\mingw\include\dlgs.h
+
+1301111149 c:\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111157 c:\mingw\include\prsht.h
+
+1301111162 c:\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\mingw\include\wincon.h
+
+1301111161 c:\mingw\include\winbase.h
+
+1301111162 c:\mingw\include\wingdi.h
+
+1301111163 c:\mingw\include\winnls.h
+
+1301111163 c:\mingw\include\winnetwk.h
+
+1301111163 c:\mingw\include\winreg.h
+
+1301111164 c:\mingw\include\winsvc.h
+
+1301111149 c:\mingw\include\cderr.h
+
+1301111149 c:\mingw\include\ddeml.h
+
+1301111151 c:\mingw\include\imm.h
+
+1301111154 c:\mingw\include\lzexpand.h
+
+1301111154 c:\mingw\include\mmsystem.h
+
+1301111155 c:\mingw\include\nb30.h
+
+1301111158 c:\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111149 c:\mingw\include\basetyps.h
+
+1301111159 c:\mingw\include\rpcdcep.h
+
+1301111159 c:\mingw\include\rpcnsi.h
+
+1301111159 c:\mingw\include\rpcnterr.h
+
+1419773313 c:\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111157 c:\mingw\include\pshpack2.h
+
+1301111163 c:\mingw\include\winperf.h
+
+1301111149 c:\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111161 c:\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111159 c:\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111159 c:\mingw\include\rpcnsip.h
+
+1301111163 c:\mingw\include\winspool.h
+
+1301111163 c:\mingw\include\winsock2.h
+	<windows.h>
+
+1301111163 c:\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111155 c:\mingw\include\mswsock.h
+
+1301111156 c:\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111155 c:\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1419773313 c:\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111149 c:\mingw\include\cguid.h
+
+1301111156 c:\mingw\include\olectlid.h
+
+1301111156 c:\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111155 c:\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\mingw\include\oleidl.h
+	<objfwd.h>
+
+1301111164 c:\mingw\include\gl\gl.h
+
+1301111165 c:\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1450682941 c:\users\dimab\c++\projects codeblocks\tetris\shape.h
+	<GL/glut.h>
+
+1450682940 source:c:\users\dimab\c++\projects codeblocks\tetris\shape.cpp
+	"shape.h"
+
+1450682945 c:\users\dimab\c++\projects codeblocks\tetris\table.h
+	<GL/glut.h>
+	"shape.h"
+
+1450683073 source:c:\users\dimab\c++\projects codeblocks\tetris\table.cpp
+	"table.h"
+	<iostream>
+
+1449267269 source:c:\users\dimab\c++\projects codeblocks\tetris\game.cpp
+	"game.h"
+
+1449267269 c:\users\dimab\c++\projects codeblocks\tetris\game.h
+
+1450682943 c:\users\dimab\c++\projects codeblocks\tetris\gameplay.h
+	<GL/glut.h>
+	"table.h"
+	"shape.h"
+
+1450682939 source:c:\users\dimab\c++\projects codeblocks\tetris\gameplay.cpp
+	"GamePlay.h"
+	<iostream>
+
+1419773313 c:\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006776 .h>
+
+1419773313 c:\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1374502282 c:\mingw\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1419773313 c:\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1419773313 c:\mingw\include\stdint.h
+	<stddef.h>
+
+1426342528 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426342528 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1301111164 c:\program files\codeblocks\mingw\include\winuser.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winerror.h
+
+1341006776 c:\program files\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1341006770 c:\program files\codeblocks\mingw\include\_mingw.h
+
+1301111148 c:\program files\codeblocks\mingw\include\basetsd.h
+
+1301111156 c:\program files\codeblocks\mingw\include\pshpack4.h
+
+1301111156 c:\program files\codeblocks\mingw\include\poppack.h
+
+1301111164 c:\program files\codeblocks\mingw\include\winver.h
+
+1301111148 c:\program files\codeblocks\mingw\include\dde.h
+
+1301111150 c:\program files\codeblocks\mingw\include\dlgs.h
+
+1301111148 c:\program files\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\prsht.h
+
+1301111162 c:\program files\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\wincon.h
+
+1301111160 c:\program files\codeblocks\mingw\include\winbase.h
+
+1301111162 c:\program files\codeblocks\mingw\include\wingdi.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnls.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winnetwk.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winreg.h
+
+1301111164 c:\program files\codeblocks\mingw\include\winsvc.h
+
+1301111148 c:\program files\codeblocks\mingw\include\cderr.h
+
+1301111148 c:\program files\codeblocks\mingw\include\ddeml.h
+
+1301111150 c:\program files\codeblocks\mingw\include\imm.h
+
+1301111154 c:\program files\codeblocks\mingw\include\lzexpand.h
+
+1301111154 c:\program files\codeblocks\mingw\include\mmsystem.h
+
+1301111154 c:\program files\codeblocks\mingw\include\nb30.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1301111148 c:\program files\codeblocks\mingw\include\basetyps.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcdcep.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnsi.h
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnterr.h
+
+1341006772 c:\program files\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1301111160 c:\program files\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\pshpack2.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winperf.h
+
+1301111148 c:\program files\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1301111160 c:\program files\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1301111164 c:\program files\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1301111158 c:\program files\codeblocks\mingw\include\rpcnsip.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winspool.h
+
+1301111162 c:\program files\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1301111162 c:\program files\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\mswsock.h
+
+1301111156 c:\program files\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1341006776 c:\program files\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1301111148 c:\program files\codeblocks\mingw\include\cguid.h
+
+1301111156 c:\program files\codeblocks\mingw\include\olectlid.h
+
+1301111156 c:\program files\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1301111154 c:\program files\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1301111156 c:\program files\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1301111164 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+1301111165 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1374502282 c:\program files\codeblocks\mingw\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1341006772 c:\program files\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1341006776 c:\program files\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1341006776 c:\program files\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1341006780 c:\program files\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1450693740 source:/home/dima/CodeBlocks project/Tetris/GamePlay.cpp
+	"GamePlay.h"
+	<iostream>
+
+1450693744 /home/dima/CodeBlocks project/Tetris/GamePlay.h
+	<GL/glut.h>
+	"table.h"
+	"shape.h"
+
+1450876014 source:/home/dima/CodeBlocks project/Tetris/main.cpp
+	<GL/glew.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	"gamePlay.h"
+	"table.h"
+	"shape.h"
+
+1450693740 source:/home/dima/CodeBlocks project/Tetris/Shape.cpp
+	"shape.h"
+
+1450693874 source:/home/dima/CodeBlocks project/Tetris/Table.cpp
+	"table.h"
+	<iostream>
+
+1540676176 source:c:\users\dimab\documents\codeblocks project\tetris\gameplay.cpp
+	"GamePlay.h"
+	<iostream>
+
+1540676176 c:\users\dimab\documents\codeblocks project\tetris\gameplay.h
+	<GL/glut.h>
+	"table.h"
+	"shape.h"
+
+1540676178 c:\users\dimab\documents\codeblocks project\tetris\table.h
+	<GL/glut.h>
+	"shape.h"
+
+1540676176 c:\users\dimab\documents\codeblocks project\tetris\shape.h
+	<GL/glut.h>
+
+1540676176 source:c:\users\dimab\documents\codeblocks project\tetris\main.cpp
+	<GL/glew.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	"gamePlay.h"
+	"table.h"
+	"shape.h"
+
+1540676178 source:c:\users\dimab\documents\codeblocks project\tetris\shape.cpp
+	"shape.h"
+
+1408938424 c:\users\dimab\desktop\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1542306135 source:c:\users\dimab\documents\codeblocks project\tetris\table.cpp
+	"table.h"
+	<iostream>
+
